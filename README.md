@@ -30,3 +30,4 @@
 
 **Lưu ý: Import data trước khi chạy ứng dụng**
 
+https://github.com/hungha102/applestore/issues/1#issue-1140144959
