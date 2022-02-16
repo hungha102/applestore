@@ -31,6 +31,8 @@
 **Lưu ý: Import data trước khi chạy ứng dụng**
 
 **Ảnh demo**
+
 https://github.com/hungha102/applestore/issues/1#issue-1140144959
 https://github.com/hungha102/applestore/issues/2#issue-1140154565
+https://github.com/hungha102/applestore/issues/3#issue-1140155868
 
