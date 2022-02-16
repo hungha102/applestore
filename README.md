@@ -28,4 +28,4 @@
 - paging
 - search engine
 
-**Lưu ý: Import data file insertData trong package database trước khi sử dụng**
+**Lưu ý: Import data trước khi sử dụng**
