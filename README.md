@@ -26,6 +26,6 @@
 
 **Some ideas we need to update:**
 - paging
-- search engine
+- search 
 
 **Lưu ý: Import data trước khi sử dụng**
