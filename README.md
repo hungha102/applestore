@@ -28,5 +28,5 @@
 - paging
 - search 
 
-**Lưu ý: Import data trước khi sử dụng**
+**Lưu ý: Import data trước khi chạy ứng dụng**
 
